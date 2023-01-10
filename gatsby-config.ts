@@ -1,7 +1,7 @@
 import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
-  pathPrefix:'/blog',
+  pathPrefix:'/principal',
   siteMetadata: {
     title: `spike-gatsby`,
     siteUrl: `https://www.yourdomain.tld`
